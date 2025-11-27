@@ -4,9 +4,8 @@ export default function Contact() {
   return (
     <section className="section">
       <h2>Contact</h2>
-      <p>Email: your.email@example.com</p>
-      <p>LinkedIn: linkedin.com/in/yourname</p>
-      <p>GitHub: github.com/yourusername</p>
+      <p>Email: cloydinoc2020@gmail.com</p>
+      <p>GitHub: github.com/cloydinoc-123</p>
     </section>
   );
 }

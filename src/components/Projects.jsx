@@ -4,13 +4,13 @@ export default function Projects() {
       <h2>Projects</h2>
 
       <div className="card">
-        <h3>Portfolio Website</h3>
-        <p>Interactive portfolio built with React.</p>
+        <h3></h3>
+        <p></p>
       </div>
 
       <div className="card">
-        <h3>Task Manager App</h3>
-        <p>CRUD app using Firebase.</p>
+        <h3></h3>
+        <p></p>
       </div>
     </section>
   );

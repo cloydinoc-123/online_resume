@@ -8,9 +8,6 @@ export default function Skills() {
         <span>React</span>
         <span>JavaScript</span>
         <span>HTML/CSS</span>
-        <span>Git</span>
-        <span>Node.js</span>
-        <span>UI/UX</span>
       </div>
     </section>
   );
